@@ -1,6 +1,14 @@
 # Impacta-api-tests
 
 Testes de API do exercicio da aula de Automated Software Testing da Pós-Graduação em Engenharia de Software da Impacta
+
+Membros do grupo:
+- Cristiano
+- Hebert Santos
+- Deivison Teixeira
+- Rodrigo Bighetti
+- Rafael Vale
+- Thais Obana
 -------------------
 # Como executar:
 
