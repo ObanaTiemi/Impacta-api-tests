@@ -1,6 +1,6 @@
 describe('API testing with cypress using PokeAPI', () =>{
 
-    it('Calling a non existent Pokemon validating an error', ()=>{
+    it('Calling a existent Pokemon validating the response code and body', ()=>{
         cy.request({url: 'pokemon/lucario', 
                     failOnStatusCode: false}).then((resp) =>{
                         expect(resp.status).to.eq(200)
